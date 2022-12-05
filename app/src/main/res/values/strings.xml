@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LoginWithAnimation</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Mau berbagi cerita? segera daftar untuk berbagi pengalaman dengan temanmu</string>
+    <string name="title_welcome_page">Selamat datang</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk share cerita?</string>
+    <string name="name">Nama</string>
+    <string name="logout">Keluar</string>
+    <string name="invalid_password">password kurang dari 6</string>
+    <string name="failure_message_api">Gagal menyambungkan Api</string>
+    <string name="username">nama</string>
+    <string name="deskripsi">deskripsi</string>
+    <string name="galeri">galeri</string>
+    <string name="upload">upload</string>
+    <string name="retry">muat ulang</string>
+
+</resources>

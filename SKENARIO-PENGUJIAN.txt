@@ -1,0 +1,25 @@
+UNIT TEST
+
+MainViewModelTest 
+
+	1 Ketika berhasil memuat data user dari local,
+	  	memastikan bahwa data local tidak kosong,
+
+	2 Ketika berhasil melakukan logout,
+	  	proses logout dengan mainViewModel dan dengan userPreference sama
+
+
+LoginViewModelTest
+
+	1 Ketika berhasil melakukan saveUser,
+	  	proses saveUser dengan viewModel dan dengan userPreference sama
+
+MapsViewModelTest 
+	1 Ketika berhasil mendapatkan data story map,
+	  	memastikan actualMaps tidak kosong,
+	  	ResultResponse.success bernilai true,
+	  	memastikan bahwa ukuran data asli actualMaps dengan data dummyMaps sama
+	  
+	  
+		
+	  
